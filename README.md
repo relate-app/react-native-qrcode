@@ -1,3 +1,5 @@
+## This is needed to patch the `WebView has been extracted from react-native` warning
+
 # THIS PROJECT IS NO LONGER MAINTAINED
 
 # react-native-qrcode
